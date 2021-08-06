@@ -8,8 +8,8 @@ while(pilihan == 'y'):
 
     print("==================================================================")
     print("")
-    print("Selamat datang di File downloader")
-    print("Silahkan pilih jenis file yang ingin di download")
+    print("Selamat datang di File Downloader")
+    print("Silahkan pilih jenis file yang ingin di Download")
     print("")
     print("")
     print("1. Txt File")
